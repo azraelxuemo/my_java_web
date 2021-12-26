@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Calculate expression</title>
+</head>
+<body>
+<%2+2 %><br>
+<%2*2%>
+</body>
+</html>
